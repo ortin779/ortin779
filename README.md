@@ -1,4 +1,4 @@
-# Naresh Chakali:
+# Naresh Chakali
 🔭 I’m currently working as UI developer and aspiring to become a golang fullstack dev<br>👯 I’m looking to collaborate on Golang related projects.<br>🌱 I’m currently learning golang and backend engineering.
 
 
